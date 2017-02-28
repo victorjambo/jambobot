@@ -2,7 +2,7 @@
 
 Telegram Bot with Ruby. Check the API documentation from [Telegram website](https://core.telegram.org/#telegram-api).
 
-Bot url: t.me/VictorJambo_Bot
+Bot url: [VictorJambo_Bot](https://t.me/VictorJambo_Bot)
 
 Installation;
 We can install it directly from your terminal:
